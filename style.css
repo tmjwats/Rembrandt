@@ -55,6 +55,9 @@ h1 {
         src: url('univers_55-webfont.woff2') format('woff2'),
              url('univers_55-webfont.woff') format('woff');
         text-align: center;
+        font-weight: normal;
+        font-style: bold;
+        font-size: 24px;
             }
 
 
