@@ -331,6 +331,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb2{
@@ -341,6 +342,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb3{
@@ -351,6 +353,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb4{
@@ -361,6 +364,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb5{
@@ -371,6 +375,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb6{
@@ -381,6 +386,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb7{
@@ -391,6 +397,7 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
 }
 
 .thumb8{
@@ -401,6 +408,18 @@ padding-top: 10%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   z-index: -1;
+  opacity: 50%;
+}
+
+.thumbchart{
+  position: fixed;
+  top: 35%;
+  left: 30%;
+  width: 65%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  opacity: 50%;
 }
 
 @media screen and (orientation: landscape) {
