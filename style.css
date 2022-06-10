@@ -422,6 +422,16 @@ padding-top: 10%;
   opacity: 50%;
 }
 
+.thumbplan{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  opacity: 50%;
+}
 
 
 @media screen and (orientation: landscape) {
