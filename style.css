@@ -411,6 +411,16 @@ padding-top: 10%;
   opacity: 50%;
 }
 
+.thumb10{
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  width: 50%;
+  width: 20%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+
 .thumbchart{
   position: fixed;
   top: 35%;
