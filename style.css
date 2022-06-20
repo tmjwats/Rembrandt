@@ -337,7 +337,7 @@ padding-top: 10%;
 .thumb2{
   position: fixed;
   top: 30%;
-  left: 55%;
+  left: 45%;
   width: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
